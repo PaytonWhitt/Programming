@@ -1,0 +1,4 @@
+/Users/PaytonWhittaker/Desktop/Programming/Whittaker_HW8.cpp:16:7: error: expected expression
+cout: << "Enter stock price";
+      ^
+1 error generated.
