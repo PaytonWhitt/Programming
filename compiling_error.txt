@@ -1,4 +1,4 @@
-/Users/PaytonWhittaker/Desktop/Programming/Whittaker_HW8.cpp:16:7: error: expected expression
-cout: << "Enter stock price";
-      ^
+/Users/PaytonWhittaker/Desktop/Programming/Whittaker_HW17.cpp:125:1: error: invalid argument type 'std::__1::ostream' (aka 'basic_ostream<char>') to unary expression
+-
+^
 1 error generated.
